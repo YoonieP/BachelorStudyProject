@@ -1,0 +1,51 @@
+{
+    "format": {
+        "version": "1.0"
+    },
+    "shaders": {
+        "Main shader": {
+            "parameters": {
+                "Common Parameters": {
+                    "alpha_dither": true,
+                    "alpha_threshold": 0.33000001311302185,
+                    "ao_intensity": 0.75,
+                    "emissive_intensity": 1.2599999904632568,
+                    "horizonFade": 1.2999999523162842,
+                    "nbSamples": 16
+                },
+                "height_force": 1
+            },
+            "shader": "adobe-dimension",
+            "shaderInstance": "Main shader"
+        }
+    },
+    "texturesets": {
+        "Mat": {
+            "shader": "Main shader"
+        },
+        "Mat.1": {
+            "shader": "Main shader"
+        },
+        "Mat.2": {
+            "shader": "Main shader"
+        },
+        "Mat.3": {
+            "shader": "Main shader"
+        },
+        "Mat.4": {
+            "shader": "Main shader"
+        },
+        "Mat.5": {
+            "shader": "Main shader"
+        },
+        "Mat.6": {
+            "shader": "Main shader"
+        },
+        "Mat.7": {
+            "shader": "Main shader"
+        },
+        "Mat.8": {
+            "shader": "Main shader"
+        }
+    }
+}
