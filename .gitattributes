@@ -1,1 +1,1 @@
-'Pitch/Pitch_New.ai' filter=lfs diff=lfs merge=lfs -text
+Pitch/Pitch.ai filter=lfs diff=lfs merge=lfs -text
